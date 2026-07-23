@@ -18,11 +18,12 @@ Get the latest available Scarlet iOS certificate resources, installation options
 
 [![Scarlet Certificate Download](https://img.shields.io/badge/Download-Scarlet%20Certificate-7C3AED?style=for-the-badge\&logo=apple\&logoColor=white)](https://applejr.net/)
 [![AppleJR](https://img.shields.io/badge/Visit-AppleJR.net-ff3131?style=for-the-badge)](https://applejr.net/)
+<!-- UPDATED_BADGE_START -->
 [![Updated](https://img.shields.io/badge/Updated-July%202026-brightgreen?style=for-the-badge)](https://applejr.net/)
-
+<!-- UPDATED_BADGE_END -->
 <br>
 
-**New Scarlet iOS Certificate — Updated July 2026**
+**New Scarlet iOS Certificate — Updated 2026**
 
 </div>
 
@@ -467,8 +468,9 @@ AppleJR provides iOS sideloading resources and tutorials, including:
 
 [![Scarlet Certificate Download](https://img.shields.io/badge/Download-Scarlet%20Certificate-7C3AED?style=for-the-badge\&logo=apple\&logoColor=white)](https://applejr.net/)
 [![AppleJR](https://img.shields.io/badge/Visit-AppleJR.net-ff3131?style=for-the-badge)](https://applejr.net/)
+<!-- UPDATED_BADGE_START -->
 [![Updated](https://img.shields.io/badge/Updated-July%202026-brightgreen?style=for-the-badge)](https://applejr.net/)
-
+<!-- UPDATED_BADGE_END -->
 <br><br>
 
 ### [Visit AppleJR.net](https://applejr.net/)
@@ -505,11 +507,11 @@ Scarlet and other application names belong to their respective developers or own
 
 [![Scarlet Certificate Download](https://img.shields.io/badge/Download-Scarlet%20Certificate-7C3AED?style=for-the-badge\&logo=apple\&logoColor=white)](https://applejr.net/)
 [![AppleJR](https://img.shields.io/badge/Visit-AppleJR.net-ff3131?style=for-the-badge)](https://applejr.net/)
+<!-- UPDATED_BADGE_START -->
 [![Updated](https://img.shields.io/badge/Updated-July%202026-brightgreen?style=for-the-badge)](https://applejr.net/)
-
+<!-- UPDATED_BADGE_END -->
 <br><br>
 
-**Updated: July 2026**
 
 **Scarlet source: [AppleJR.net](https://applejr.net/)**
 
